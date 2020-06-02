@@ -1117,28 +1117,3 @@ section.lazy-placeholder:after {
 .cid-s0D42AKPS9 .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-s0CWzxjqfl {
-  background-image: url("../../../assets/images/background4.jpg");
-}
-.cid-s0CWzxjqfl .form-control,
-.cid-s0CWzxjqfl .form-control:focus {
-  background: #ffffff;
-  border: 1px solid #ffffff;
-}
-.cid-s0CWzxjqfl .form-container {
-  transition: all .2s;
-  border: 1px solid #ffffff;
-  padding: 1rem;
-}
-.cid-s0CWzxjqfl textarea.form-control {
-  min-height: 188px;
-}
-.cid-s0CWzxjqfl .input-group-btn {
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-@media (min-width: 768px) {
-  .cid-s0CWzxjqfl .content-container {
-    padding-right: 5rem;
-  }
-}
