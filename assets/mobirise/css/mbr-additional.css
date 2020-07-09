@@ -1120,3 +1120,7 @@ section.lazy-placeholder:after {
 .cid-s0Iyd8SQts {
   background-image: url("../../../assets/images/background4.jpg");
 }
+.cid-s0Iyd8SQts .mbr-text,
+.cid-s0Iyd8SQts .mbr-section-btn {
+  text-align: center;
+}
